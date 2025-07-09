@@ -1,0 +1,32 @@
+--- Buy Order - Limit ---
+{
+  "symbol": "BTC-USDT",
+  "order_type": "limit",
+  "side": "buy",
+  "quantity": 1.5,
+  "price": 30000,
+  "order_id": "buy1",
+  "timestamp": 1718013780
+}
+
+--- Sell Order - Limit ---
+{
+  "symbol": "BTC-USDT",
+  "order_type": "limit",
+  "side": "sell",
+  "quantity": 1.5,
+  "price": 30000,
+  "order_id": "sell1",
+  "timestamp": 1718013900
+}
+
+--- Buy Order - Market ---
+{
+  "symbol": "BTC-USDT",
+  "order_type": "market",
+  "side": "buy",
+  "quantity": 1.0,
+  "price": 0,
+  "order_id": "buy2",
+  "timestamp": 1718014000
+}
